@@ -1,0 +1,1 @@
+This is the readme file for my reop. This repo is for training purposes for learning Git. 
